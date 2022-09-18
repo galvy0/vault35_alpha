@@ -4289,7 +4289,7 @@
     (property "Value" "ATmega32U4-M" (id 1) (at 158.2294 121.92 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm" (id 2) (at 156.21 73.66 0)
+    (property "Footprint" "Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm_ThermalVias" (id 2) (at 156.21 73.66 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" (id 3) (at 156.21 73.66 0)
@@ -6731,7 +6731,7 @@
       (reference "U1") (unit 1) (value "SRV05-4") (footprint "Package_TO_SOT_SMD:SOT-23-6")
     )
     (path "/41996209-b9ca-4c2f-9bac-165f421bc575"
-      (reference "U2") (unit 1) (value "ATmega32U4-M") (footprint "Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm")
+      (reference "U2") (unit 1) (value "ATmega32U4-M") (footprint "Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm_ThermalVias")
     )
     (path "/585f9e9f-dfe7-4dd8-8c55-e7e89ca5db61"
       (reference "UR1") (unit 1) (value "22") (footprint "Resistor_SMD:R_0805_2012Metric")
