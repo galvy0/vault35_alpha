@@ -10,7 +10,7 @@ Waiting on PCB prototypes.
 ![Layouts](https://github.com/galvy0/vault35_alpha/blob/main/images/vault35_alpha_layout.png)
 
 ### Middle Column Options
-There are three options to fill in the space in the middle column: 1) two normal keys, 2) OLED, and 3) trackpoint module.  
+There are four options to fill in the space in the middle column: 1) two normal switches, 2) two encoders (or a combination of encoders and normal switches), 3) an OLED, and 4) a trackpoint module.  
 
 #### OLED
 [WIP]
